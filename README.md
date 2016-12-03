@@ -113,5 +113,5 @@ The following people have helped out in the project and are much appreciated for
 
 * [Jip Moors](https://profiles.wordpress.org/jipmoors)
 * [Sergey Biryukov](https://profiles.wordpress.org/sergeybiryukov)
-* [Alain Schlesser](https://profiles.wordpress.org/alain-schlesser)
+* [Alain Schlesser](https://profiles.wordpress.org/schlessera)
 
